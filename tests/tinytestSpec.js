@@ -45,7 +45,7 @@ describe('Test tinytest :)', function(){
         ).toBe(true);
     });
 
-    it('should compare functions', function(){
+    it('should compare correctly functions', function(){
         let func1 = ()=>{};
         let func2 = ()=>{};
 
